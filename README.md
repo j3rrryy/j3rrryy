@@ -5,8 +5,8 @@ I like coding and developing interesting things
 
 *   🌍  I'm based in St. Petersburg
 *   ✉️  You can contact me at [J3rryXl@yandex.ru](mailto:J3rryXl@yandex.ru)
-*   🚀  I'm currently working on [School website](http://school-464-spb.ru)
-*   🧠  I'm learning asynchronous programming in Python
+*   🚀  I'm currently working on Alpha messenger
+*   🧠  I'm learning FastAPI
 *   🤝  I'm open to collaborating on interesting projects
   
 ### Skills 
