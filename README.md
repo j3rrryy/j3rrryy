@@ -3,10 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I like coding and developing interesting things
 
-*   🌍  I'm based in St. Petersburg
+*   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [J3rryXl@yandex.ru](mailto:J3rryXl@yandex.ru)
-*   🚀  I'm currently working on Travel bot
-*   🧠  I'm learning FastAPI
+*   🚀  I'm currently working on Cloud storage
+*   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on interesting projects
   
 ### Skills 
