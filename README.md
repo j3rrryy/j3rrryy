@@ -6,7 +6,7 @@ I like coding and developing interesting things
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [J3rryXl@yandex.ru](mailto:J3rryXl@yandex.ru)
 *   🚀  I'm currently working on Cloud storage
-*   🧠  I'm learning Apache Kafka
+*   🧠  I'm learning Kubernetes and Apache Kafka
 *   🤝  I'm open to collaborating on interesting projects
   
 ### Skills 
@@ -55,7 +55,8 @@ I like coding and developing interesting things
             width="36" height="36" alt="Flask" /></a><a href="https://grpc.io" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-logo.svg" width="36"
             height="36" alt="gRPC" /></a><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img
-            src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a><a
+            src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a><a href="https://kafka.apache.org" target="_blank"
+        rel="noreferrer"><img src="https://logodix.com/logo/2007040.png" width="36" height="36" alt="Kafka" /></a><a
         href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
             width="36" height="36" alt="Docker" /></a><a href="https://kubernetes.io" target="_blank"
