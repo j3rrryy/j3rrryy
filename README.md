@@ -13,35 +13,39 @@ I like coding and developing interesting things
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-            width="36" height="36" alt="Python" /></a><a href="https://fastapi.tiangolo.com/" target="_blank"
-        rel="noreferrer"><img
+            width="36" height="36" alt="Python" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg"
-            width="36" height="36" alt="FastAPI" /></a><a href="https://litestar.dev" target="_blank"
-        rel="noreferrer"><img
-            src="https://litestar.dev/_static/logo.svg"
-            width="36" height="36" alt="Litestar" /></a><a href="https://www.djangoproject.com/" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg"
-            width="36" height="36" alt="Django" /></a><a href="https://flask.palletsprojects.com/" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg"
-            width="36" height="36" alt="Flask" /></a><a href="https://www.postgresql.org/" target="_blank"
-        rel="noreferrer"><img
+            width="36" height="36" alt="FastAPI" /></a>
+    <a href="https://litestar.dev" target="_blank" rel="noreferrer"><img src="https://litestar.dev/_static/logo.svg" width="36"
+            height="36" alt="Litestar" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg" width="36"
+            height="36" alt="Django" /></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36"
+            height="36" alt="Flask" /></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-            width="36" height="36" alt="PostgreSQL" /></a><a href="https://redis.io" target="_blank" rel="noreferrer"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36"
-            alt="Redis" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
+            width="36" height="36" alt="PostgreSQL" /></a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer"><img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" /></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-            width="36" height="36" alt="MongoDB" /></a><a href="https://grpc.io" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-logo.svg" width="36"
-            height="36" alt="gRPC" /></a><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img
-            src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a><a href="https://kafka.apache.org" target="_blank"
-        rel="noreferrer"><img src="https://logodix.com/logo/2007040.png" width="36" height="36" alt="Apache Kafka" /></a><a
-        href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-            width="36" height="36" alt="Docker" /></a><a href="https://kubernetes.io" target="_blank"
-        rel="noreferrer"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png"
-            width="36" height="36" alt="Kubernetes" /></a>
+            width="36" height="36" alt="MongoDB" /></a>
+    <a href="https://grpc.io" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-logo.svg" width="36" height="36" alt="gRPC" /></a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img
+            src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a>
+    <a href="https://min.io" target="_blank" rel="noreferrer"><img
+            src="https://min.io/resources/img/footer/logo.svg" width="36" height="36" alt="Minio" /></a>
+    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/2007040.png" width="36" height="36"
+            alt="Apache Kafka" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"
+            height="36" alt="Docker" /></a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="36" height="36" alt="Kubernetes" /></a>
 </p>
 
 ### Badges
