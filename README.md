@@ -5,11 +5,18 @@ I like coding and developing interesting things
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [J3rryXl@yandex.ru](mailto:J3rryXl@yandex.ru)
-*   🚀  I'm currently working on Cloud Storage
+*   🚀  I'm currently working on Job Aggregator
 *   🧠  I'm learning Kubernetes and Apache Kafka
 *   🤝  I'm open to collaborating on interesting projects
   
 ### Stack 
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+            width="36" height="36" alt="Java" /></a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img
+            src="https://spring.io/img/projects/spring-boot.svg" width="36" height="36" alt="Spring Boot" /></a>
+</p>
 <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
@@ -25,6 +32,8 @@ I like coding and developing interesting things
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36"
             height="36" alt="Flask" /></a>
+</p>
+<p align="left">
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
             width="36" height="36" alt="PostgreSQL" /></a>
