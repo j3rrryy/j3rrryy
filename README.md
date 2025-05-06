@@ -5,7 +5,6 @@ I like coding and developing interesting things
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [J3rryXl@yandex.ru](mailto:J3rryXl@yandex.ru)
-*   🚀  I'm currently working on Job Aggregator
 *   🧠  I'm learning Kubernetes and Apache Kafka
 *   🤝  I'm open to collaborating on interesting projects
   
