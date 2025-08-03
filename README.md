@@ -42,7 +42,7 @@ I like coding and developing interesting things
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
             width="36" height="36" alt="MongoDB" /></a>
     <a href="https://min.io" target="_blank" rel="noreferrer"><img
-            src="https://min.io/resources/img/footer/logo.svg" width="36" height="36" alt="Minio" /></a>
+            src="https://cdn.prod.website-files.com/681c8426519d8db8f867c1e8/681c8426519d8db8f867c1f7_MinIO.svg" width="36" height="36" alt="Minio" /></a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img
             src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a>
     <a href="https://grpc.io" target="_blank" rel="noreferrer"><img
