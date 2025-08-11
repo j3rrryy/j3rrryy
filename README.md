@@ -46,7 +46,7 @@ I like coding and developing interesting things
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img
             src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="Nginx" /></a>
     <a href="https://grpc.io" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-logo.svg" width="36" height="36" alt="gRPC" /></a>
+            src="https://raw.githubusercontent.com/grpc/grpc.io/main/static/img/logos/grpc-logo.svg" width="36" height="36 !important" alt="gRPC" /></a>
     <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/2007040.png" width="36" height="36"
             alt="Apache Kafka" /></a>
     <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img
