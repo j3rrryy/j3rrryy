@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
 =============================================================================================================================
 
-I like coding and developing interesting things
+I like coding and developing interesting apps
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [J3rryXl@yandex.ru](mailto:J3rryXl@yandex.ru)
-*   🧠  I'm learning Kubernetes and Apache Kafka
-*   🤝  I'm open to collaborating on interesting projects
+*   🧠  Currently learning Kubernetes and Apache Kafka
   
 ### Stack 
 <p align="left">
