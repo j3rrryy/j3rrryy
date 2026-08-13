@@ -5,7 +5,7 @@ I like coding and developing interesting apps
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [J3rryXl@yandex.ru](mailto:J3rryXl@yandex.ru)
-*   🧠  Currently learning Kubernetes and Apache Kafka
+*   🧠  Currently learning Ansible and Terraform
   
 ### Stack
 
