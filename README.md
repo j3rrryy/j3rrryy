@@ -13,4 +13,4 @@ I like coding and developing interesting apps
 
 ![Python](https://skillicons.dev/icons?i=python,fastapi,django,flask&perline=10)
 
-![Other](https://skillicons.dev/icons?i=postgres,redis,mongodb,nginx,kafka,prometheus,grafana,docker,kubernetes&perline=10)
+![Other](https://skillicons.dev/icons?i=postgres,redis,mongodb,nginx,kafka,prometheus,grafana,ansible,terraform,docker,kubernetes&perline=15)
